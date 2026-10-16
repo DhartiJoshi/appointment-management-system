@@ -1,0 +1,76 @@
+[{
+	"_id": {
+		"$oid": "6ad08de362cdd8c2ce71dee0"
+	},
+	"name": "Dr. Anita Sharma",
+	"specialization": "Neurologist",
+	"status": "Inactive",
+	"createdAt": {
+		"$date": "2026-10-15T08:25:07.766Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:29:30.757Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad08f7e62cdd8c2ce71dee1"
+	},
+	"name": "Dr. Rahul Mehta",
+	"specialization": "Orthopedic",
+	"status": "Active",
+	"createdAt": {
+		"$date": "2026-10-15T08:31:58.64Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:31:58.64Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad08f8c62cdd8c2ce71dee2"
+	},
+	"name": "Dr. Priya Patel",
+	"specialization": "Dermatologist",
+	"status": "Active",
+	"createdAt": {
+		"$date": "2026-10-15T08:32:12.608Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:32:12.608Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad08f9a62cdd8c2ce71dee3"
+	},
+	"name": "Dr. Suresh Nair",
+	"specialization": "Pediatrician",
+	"status": "Active",
+	"createdAt": {
+		"$date": "2026-10-15T08:32:26.283Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:32:26.283Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad0a7c14c67b20a247a70b7"
+	},
+	"name": "Dr. Kunj Patel",
+	"specialization": "Surgon",
+	"status": "Inactive",
+	"createdAt": {
+		"$date": "2026-10-15T10:15:29.637Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T10:15:42.297Z"
+	},
+	"__v": 0
+}]
+

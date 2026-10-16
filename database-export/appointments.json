@@ -1,0 +1,145 @@
+[{
+	"_id": {
+		"$oid": "6ad0928f1de6d6dfad9d8a4a"
+	},
+	"firstName": "Amit",
+	"lastName": "Verma",
+	"mobile": "9876543210",
+	"email": "amit@example.com",
+	"doctor": {
+		"$oid": "6ad08f9a62cdd8c2ce71dee3"
+	},
+	"serviceType": "New Case",
+	"appointmentDate": "2026-10-20",
+	"appointmentTime": "10:15",
+	"notes": "First visit",
+	"status": "Pending",
+	"createdAt": {
+		"$date": "2026-10-15T08:45:03.297Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:45:03.297Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad092f61de6d6dfad9d8a4b"
+	},
+	"firstName": "Neha",
+	"lastName": "Shah",
+	"mobile": "9123456780",
+	"email": "neha@example.com",
+	"doctor": {
+		"$oid": "6ad08f9a62cdd8c2ce71dee3"
+	},
+	"serviceType": "Follow Up",
+	"appointmentDate": "2026-10-22",
+	"appointmentTime": "11:30",
+	"notes": "Review",
+	"status": "Pending",
+	"createdAt": {
+		"$date": "2026-10-15T08:46:46.744Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T08:46:46.744Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad0932a1de6d6dfad9d8a4c"
+	},
+	"firstName": "Rohan",
+	"lastName": "Desai",
+	"mobile": "9988776655",
+	"email": "rohan@example.com",
+	"doctor": {
+		"$oid": "6ad08f8c62cdd8c2ce71dee2"
+	},
+	"serviceType": "Consultation",
+	"appointmentDate": "2026-10-10",
+	"appointmentTime": "15:45",
+	"notes": "",
+	"status": "Completed",
+	"createdAt": {
+		"$date": "2026-10-15T08:47:38.848Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T10:22:19.444Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad0a8134c67b20a247a70b8"
+	},
+	"firstName": "Mahi",
+	"lastName": "Patel",
+	"mobile": "4758672906",
+	"email": "m@gmail.com",
+	"doctor": {
+		"$oid": "6ad08f7e62cdd8c2ce71dee1"
+	},
+	"serviceType": "Follow Up",
+	"appointmentDate": "2026-10-18",
+	"appointmentTime": "03:45",
+	"notes": "",
+	"status": "Cancelled",
+	"createdAt": {
+		"$date": "2026-10-15T10:16:51.759Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T10:17:05.566Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad0a8574c67b20a247a70b9"
+	},
+	"firstName": "Nimita",
+	"lastName": "Joshi",
+	"mobile": "7798665911",
+	"email": "n@gmail.com",
+	"doctor": {
+		"$oid": "6ad08f7e62cdd8c2ce71dee1"
+	},
+	"serviceType": "Consultation",
+	"appointmentDate": "2026-10-14",
+	"appointmentTime": "01:15",
+	"notes": "",
+	"status": "Completed",
+	"createdAt": {
+		"$date": "2026-10-15T10:17:59.914Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T10:18:35.794Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "6ad0a9404c67b20a247a70ba"
+	},
+	"firstName": "Falguni",
+	"lastName": "Pathak",
+	"mobile": "6655993387",
+	"email": "f@gmail.com",
+	"doctor": {
+		"$oid": "6ad08f8c62cdd8c2ce71dee2"
+	},
+	"serviceType": "Consultation",
+	"appointmentDate": "2026-10-17",
+	"appointmentTime": "17:30",
+	"notes": "",
+	"status": "Pending",
+	"createdAt": {
+		"$date": "2026-10-15T10:21:52.924Z"
+	},
+	"updatedAt": {
+		"$date": "2026-10-15T10:21:52.924Z"
+	},
+	"__v": 0
+}]
+
